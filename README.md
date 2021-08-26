@@ -2,10 +2,10 @@
 
 I'm creator of [Pikaso](https://github.com/pikasojs/pikaso) and currently working on documenting and making tutorials page for that. I've created a very basic demo to show the power of the library. you will be able to find that from https://pikaso.netlify.app/   
 
-I appreciate everyone that help me with creating tutorial pages 👯👯   
+I appreciate every person who contributes to the creation of tutorial pages 👯👯   
 
 
-To collaborate on Pikaso, please send me a message on ramin.mousavy[at]gmail[dot]com
+Send me a message at ramin.mousavy[at]gmail[dot]com if you are interested in collaborating on Pikaso
 
 <!--
 **raminious/raminious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
