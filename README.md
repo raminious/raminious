@@ -1,10 +1,6 @@
 ### Hello!
 
-I'm creator of [Pikaso](https://github.com/pikasojs/pikaso) and currently working on documenting and making tutorials page for that. I've created a very basic demo to show the power of the library. you will be able to find that from https://pikaso.netlify.app/   
-
-I appreciate every person who contributes to the creation of tutorial pages 👯👯   
-
-
+I'm creator of [Pikaso](https://github.com/pikasojs/pikaso)
 Send me a message at ramin.mousavy[at]gmail[dot]com if you are interested in collaborating on Pikaso
 
 
