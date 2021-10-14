@@ -2,7 +2,7 @@
 
 I'm creator of [Pikaso](https://github.com/pikasojs/pikaso)
 
-Please send email to ![mail](https://img.shields.io/badge/-ramin%40pikaso.app-fff) if you are interested in collaborating on Pikaso.
+Please send email to ![mail](https://camo.githubusercontent.com/ae4556849a76aa8998684c444badc080b4de08157bedf17fcd0a4ae01b5b51c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72616d696e25343070696b61736f2e6170702d666666) if you are interested in collaborating on Pikaso.
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=raminious&show_icons=true&hide=[%22contribs%22])](https://github.com/raminious/raminious)
