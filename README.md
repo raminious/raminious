@@ -1,6 +1,8 @@
 ### Hello!
 
-I'm creator of [Pikaso](https://github.com/pikasojs/pikaso)
+Web team lead at [rechat.com](https://rechat.com)   
+Building [Pikaso](https://github.com/pikasojs/pikaso)
+
 
 My contact email is ![mail](https://camo.githubusercontent.com/ae4556849a76aa8998684c444badc080b4de08157bedf17fcd0a4ae01b5b51c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72616d696e25343070696b61736f2e6170702d666666)
 
