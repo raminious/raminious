@@ -1,6 +1,6 @@
 ### Hello!
 
-Web team lead at [rechat.com](https://rechat.com)   
+Software Engineer at [rechat.com](https://rechat.com)   
 Building [Pikaso](https://github.com/pikasojs/pikaso)
 
 
