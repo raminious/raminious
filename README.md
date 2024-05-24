@@ -1,6 +1,5 @@
 ### Hello!
 
-Software Engineer and Team Lead at [rechat.com](https://rechat.com)   
 Building [Pikaso](https://github.com/pikasojs/pikaso) and [PixelMagic](https://pixelmagic.dorna.io)
 
 
